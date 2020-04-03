@@ -11,5 +11,5 @@ polygons = []
 t = new_matrix()
 ident(t)
 csystems = [ t ]
-
+print("robot.png")
 parse_file( 'script', edges, polygons, csystems, screen, color )
